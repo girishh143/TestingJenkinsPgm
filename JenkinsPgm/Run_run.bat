@@ -1,0 +1,1 @@
+java -cp D:/eclipse Workspace/JenkinsPgm/bin;C:/lib/* org.testng.TestNG testng.xml

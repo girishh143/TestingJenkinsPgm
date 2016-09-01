@@ -13,15 +13,11 @@ public class Test_test {
 		System.out.println("Instance is running===");
 		System.out.println("Instance is running===");
 		System.out.println("Instance is running===");
-		System.out.println("Instance is running===");
-		System.out.println("Instance is running===1");
-		System.out.println("Instance is running===2");
-		System.out.println("Instance is running===3");
-		System.out.println("Instance is running===4");
-		/*WebDriver driver = new FirefoxDriver();
+		 
+		 WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.facebook.com/");
 		driver.getTitle();
 		driver.getCurrentUrl();
-*/	}
+ 	}
 	
 }
